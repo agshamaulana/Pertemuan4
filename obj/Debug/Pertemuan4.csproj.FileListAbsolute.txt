@@ -1,0 +1,8 @@
+D:\4823\Pertemuan4\obj\Debug\Pertemuan4.csproj.AssemblyReference.cache
+D:\4823\Pertemuan4\obj\Debug\Pertemuan4.csproj.SuggestedBindingRedirects.cache
+D:\4823\Pertemuan4\obj\Debug\Pertemuan4.csproj.CoreCompileInputs.cache
+D:\4823\Pertemuan4\bin\Debug\Pertemuan4.exe.config
+D:\4823\Pertemuan4\bin\Debug\Pertemuan4.exe
+D:\4823\Pertemuan4\bin\Debug\Pertemuan4.pdb
+D:\4823\Pertemuan4\obj\Debug\Pertemuan4.exe
+D:\4823\Pertemuan4\obj\Debug\Pertemuan4.pdb
